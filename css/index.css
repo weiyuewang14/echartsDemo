@@ -111,6 +111,14 @@ header .showTime {
   font-size: 20px;
   font-weight: 400;
 }
+.main-box .panel h2 a {
+  color: #000;
+  text-decoration: none;
+  margin: 0 0.125rem;
+  font-size: 10px;
+  padding: 0.0325rem;
+  background-color: #bfa;
+}
 .main-box .panel .chart {
   height: 3rem;
 }
